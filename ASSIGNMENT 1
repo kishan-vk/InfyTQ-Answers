@@ -1,0 +1,7 @@
+while(start != end)do
+if(Is_Next_Block_Bomb)then
+move Down
+move Down
+end-if
+move Right
+end-while
